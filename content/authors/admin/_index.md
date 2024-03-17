@@ -18,12 +18,12 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: An 10 years experienced Android Engineer, I have a strong focus on Kotlin and a complementary background in .NET technologies.
+bio: Android & Kotlin Lover ♥️
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Jetpack Compose
+- Kotlin Multiplatform
+- Snowboard 🏂
 
 #education:
 #  courses:
@@ -44,13 +44,13 @@ bio: An 10 years experienced Android Engineer, I have a strong focus on Kotlin a
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:teeranai.buddee@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://linkedin.com/in/teeranaib
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://github.com/teeranaib
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -63,11 +63,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+email: "teeranai.buddee@gmail.com"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+I am an experienced Android Engineer, I have a strong focus on Kotlin and a complementary background in .NET technologies. My specialties include the successful development of E-Commerce and SNS platforms, expertise in the software development process, optimization, and encouraging collaborative teamwork.
