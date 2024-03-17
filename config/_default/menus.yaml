@@ -7,12 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: LinkedIn
-    url: https://linkedin.com/in/teeranaib
-    weight: 20
   - name: Github
     url: https://github.com/minibugdev
-    weight: 30
+    weight: 20
   - name: Contact
     url: mailto:teeranai.buddee@gmail.com
-    weigth: 40
+    weigth: 30

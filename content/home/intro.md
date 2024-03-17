@@ -18,7 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Pop**, a 10 years experienced Android Engineer, strong focus on Kotlin and also .NET technologies.
+👋 Hi, there! I'm **Pop**, a 10 years experienced Android Engineer, strong focus on Kotlin and also .NET technologies. My specialties include the successful development of E-Commerce and SNS platforms, expertise in the software development process, optimization, and encouraging collaborative teamwork.
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my portfolio below 😍
