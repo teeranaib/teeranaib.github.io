@@ -7,6 +7,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Resumé
-    url: about/
+  - name: LinkedIn
+    url: https://linkedin.com/in/teeranaib
     weight: 20
+  - name: Github
+    url: https://github.com/minibugdev
+    weight: 30

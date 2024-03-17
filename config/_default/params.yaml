@@ -33,7 +33,7 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: r
     show_logo: false
     show_language: false
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year}'
+    notice: '© {year} Teeranai Buddee'
     license:
       enable: false
       allow_derivatives: false
