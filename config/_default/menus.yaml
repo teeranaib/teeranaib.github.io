@@ -13,3 +13,6 @@ main:
   - name: Github
     url: https://github.com/minibugdev
     weight: 30
+  - name: Contact
+    url: mailto:teeranai.buddee@gmail.com
+    weigth: 40
