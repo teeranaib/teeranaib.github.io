@@ -50,7 +50,7 @@ social:
     link: https://linkedin.com/in/teeranaib
   - icon: github
     icon_pack: fab
-    link: https://github.com/teeranaib
+    link: https://github.com/minibugdev
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
