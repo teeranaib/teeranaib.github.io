@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: dark
-  theme_night: dark
+  theme_day: custom
+  theme_night: custom
   font: minimal
   font_size: L
 
@@ -37,7 +37,7 @@ header:
     align: r
     show_logo: false
     show_language: false
-    show_day_night: false
+    show_day_night: true
     show_search: false
     highlight_active_link: false
 
