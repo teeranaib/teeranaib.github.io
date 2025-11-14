@@ -2,7 +2,7 @@
 title: Shop Spot App
 summary: A lifestyle platform built with MVP, Java, and RxJava, combining Content, Commerce, and Community to deliver a responsive and user-focused experience.
 date: 2014-10-01
-featured: false
+featured: true
 share: false
 tags:
   - Android

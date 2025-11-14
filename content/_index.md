@@ -33,7 +33,7 @@ sections:
     id: projects
     content:
       title: Projects
-      count: 3
+      count: 6
       filters:
         folders:
           - projects

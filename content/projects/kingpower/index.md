@@ -2,6 +2,7 @@
 title: King Power App
 summary: A scalable and modular Android travel retail shopping app built with Clean Architecture, MVP, Kotlin, Dagger, RxJava, GraphQL, and Epoxy for a seamless shopping experience.
 date: 2017-08-01
+featured: true
 share: false
 tags:
   - Android

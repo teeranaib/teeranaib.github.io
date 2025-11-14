@@ -1,6 +1,8 @@
 ---
 title: Potioneer App
 summary: A modular Android dining experience platform built with MVVM, Kotlin, Hilt, RxJava, REST API, and Epoxy for seamless booking and personalized chef-designed courses.
+date: 2013-01-01
+featured: true
 share: false
 tags:
   - Android
